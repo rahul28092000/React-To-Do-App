@@ -1,6 +1,6 @@
 # React-To-Do-App
   
-    This is a simple To Do Application in React. This is my firt React JS project. 
+    This is a simple To Do Application in React. This is my first React JS project. 
     In this application, I've used React components, React forms, event handlers etc.
     It is a very easy quick application to use.
     
